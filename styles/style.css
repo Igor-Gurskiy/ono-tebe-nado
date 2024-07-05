@@ -52,7 +52,6 @@
 }
 
 .address {
-    
   font-style: normal;
 }
 .cover {
@@ -255,10 +254,9 @@
   line-height: 1.2;
   letter-spacing: 0.003em;
 }
-.paragraph1{
-    padding-right: 5px;
-    letter-spacing: 0.005em;
-
+.paragraph1 {
+  padding-right: 5px;
+  letter-spacing: 0.005em;
 }
 .footer {
   padding: 0 50px 88px;
