@@ -1,1 +1,5 @@
-https://github.com/Igor-Gurskiy/ono-tebe-nado.git
+# Проект «Оно тебе надо» – Вёрстка лендинга
+
+Лендинг аукциона с использованием HTML и CSS.
+
+![Лендинг](fig%201.jpg)
